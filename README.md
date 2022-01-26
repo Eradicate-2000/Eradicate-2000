@@ -29,11 +29,10 @@
 
 <br>
 </p>
-- 😄 Pronouns: ... We/Us
 - ⚡ Fun fact: ... I am batman. 😎🦇 
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Eradicate-2000&theme=gruvbox" alt="muhammadfaizanhaidar"  /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Eradicate-2000&theme=gruvbox" alt="Yash Agarwal"  /></p>
 
 <hr>
 <p align="center">
