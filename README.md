@@ -116,4 +116,4 @@
 <br/>
 
 ------
-Credit: [Eradicate-2000](https://github.com/Eradicate-2000)
+Credit: [Yash Agarwal](https://github.com/Eradicate-2000)
