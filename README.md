@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-<img src="https://profile-counter.glitch.me/Eradicate-2000/count.svg">
+<!--<img src="https://profile-counter.glitch.me/Eradicate-2000/count.svg">-->
 
 [![GitHub followers](https://img.shields.io/github/followers/Eradicate-2000.svg?style=social&label=Followers)](https://github.com/Eradicate-2000?tab=followers)
 
