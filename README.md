@@ -1,24 +1,30 @@
 
-### Hi there 👋
+# Hi, I'm Yash Agarwal 👋
+### Data Engineer II @ Amdocs · Pune, India · building large-scale cloud data platforms
 
 <!--<img src="https://profile-counter.glitch.me/Eradicate-2000/count.svg">-->
 
 [![GitHub followers](https://img.shields.io/github/followers/Eradicate-2000.svg?style=social&label=Followers)](https://github.com/Eradicate-2000?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Yash!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Yash+Agarwal!;Data+Engineer+II+%40+Amdocs;Building+large-scale+data+platforms;45B%2B+records+migrated+to+the+cloud)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Eradicate-2000&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
-<h3> Here's some fun facts about me: </h3>
+<h3> A few things about me: </h3>
 
-- 🔭 I’m currently on the path of becoming a Full Stack Developer
-- 🤔 I’m also working as a Freelancer at Upwork and Fiverr.
-- 💬 Ask me about Programming
-- 📫 GSec at IEEEIASVIT
+- 🔭 I’m a **Data Engineer II at Amdocs** in Pune, India, building large-scale cloud data platforms for a Fortune 50 telecom leader
+- 🏗️ I’ve migrated **45B+ records** to the cloud and safeguarded an **$8.5B billing system** with self-auditing data infrastructure
+- 🌐 Portfolio & blog → **[iamyashagarwal.com](https://iamyashagarwal.com)**
+- ✍️ I write about data engineering at **[iamyashagarwal.com/blog](https://iamyashagarwal.com/blog/)**
+- 💬 Ask me about **data engineering, Snowflake, Azure, PySpark, ETL & data quality**
+- 🎓 Computer Science alum, **Vellore Institute of Technology (VIT)**
+- 🤝 Open to senior **data engineering / data platform** roles
 
 <p>Connect with me on
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/yash-a-785b9a93/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://iamyashagarwal.com"><img src="https://img.shields.io/badge/-Portfolio-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="https://www.linkedin.com/in/iamyashagarwal/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="mailto:yash.eradicate@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
@@ -29,7 +35,7 @@
 
 <br>
 </p>
-- ⚡ Fun fact: ... I am batman. 😎🦇 
+- ⚡ Fun fact: I once migrated 1,000+ tables and 45B+ records from Teradata to Snowflake — 45% cheaper, 34% faster 🚀 
 
 <!--### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Eradicate-2000&theme=gruvbox" alt="Yash Agarwal"  /></p>-->
@@ -37,7 +43,7 @@
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>GitHub Stats</b></i></p>
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eradicate-2000&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eradicate-2000&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Yash Agarwal — most used languages" /></p>
 <!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Eradicate-2000&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p> -->
 <br>
 
@@ -54,34 +60,37 @@
 ### 👉 Programming languages
 
 <p align="left"> 
-  
-
-  <a href="https://dart.dev/">
-    <img alt="C/C++" src="https://img.shields.io/badge/C++-0175C2?style=for-the-badge&logo=C++&logoColor=white"/>
-  </a>
-&emsp;
 <a href="https://python.org/">
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
   </a>
   &emsp;
-<!--<a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>-->
-
-
+  <a href="#">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="#">
+    <img alt="Shell / Bash" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="#">
+    <img alt="C++" src="https://img.shields.io/badge/C++-0175C2?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  </a>
 </p>
 
 
 ### 👉 Databases & Cloud Hosting
 <p align="left">
+    <a href="https://www.snowflake.com/"><img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"></a>
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="https://azure.microsoft.com/"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"></a>
   &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
+    <a href="https://www.databricks.com/"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"></a>
   &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://spark.apache.org/"><img alt="Apache Spark / PySpark" src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"></a>
   &emsp;
-<a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
+    <a href="https://airflow.apache.org/"><img alt="Apache Airflow" src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
  </p>
 
  ### 👉 Software & Tools
@@ -104,7 +113,7 @@
     &emsp;
     <!--<a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
     &emsp;-->
-     <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></a>
     &emsp; 
     
 </p>
@@ -115,5 +124,5 @@
 <br/>
 
 ------
-Credit: [Yash Agarwal](https://github.com/Eradicate-2000)
-Last Edited On: 22/11/2021
+Credit: [Yash Agarwal](https://iamyashagarwal.com)
+Last Edited On: 30/06/2026
